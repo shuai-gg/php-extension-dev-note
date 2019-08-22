@@ -2,8 +2,8 @@
 > 上一章: [《PHP扩展基础开发学习笔记》](<README.md>)
 
 1. [配置编译环境](1.md)
-	   1. [编译php](1.1.md)
-	   2. x
+      1. [编译php](1.1.md)
+      2. [配置环境变量php](1.1.md)
 2. [第一个php扩展](2.md)
       1. [扩展基本结构](2.md)
       2. [编译我们的扩展](2.2.md)
@@ -18,14 +18,14 @@
       2. [zend\_get\_parameter()](4.2.md)
       3. [php新增解析参数的方法](4.3.md)
 5. [php uuid扩展](5.md)
-	  1. [创建UUID](5.1.md)
-	  2. [我的uuid扩展](5.2.md)
-	  3. [pecl官方uuid](5.3.md)
-	  
+    1. [创建UUID](5.1.md)
+    2. [我的uuid扩展](5.2.md)
+    3. [pecl官方uuid](5.3.md)
+    
 ### 杂项
 1. [php-config](php-config.md)
 2. [configure](configure.md)
 3. [make常见目标](make.md)
-	  
-	   
+    
+     
 > 下一章: [配置编译环境](<1.md>)
