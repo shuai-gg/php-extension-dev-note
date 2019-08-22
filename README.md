@@ -1,5 +1,5 @@
-# php-extension-dev-note
-> php扩展开发学习笔记
+# php-extension-simple-dev-note
+> php扩展基础开发学习笔记
 
 ### 扩展是什么
 
@@ -17,8 +17,8 @@ php本身已经拥有很丰富的函数库，再加上php7的发布php性能提�
 - 配置编译环境
 - 第一个简单的php扩展
 - PHP扩展源码基本结构
-- PHP内核的参数传递
-- PHP内核的函数值返回
+- PHP扩展的参数
+- PHP扩展函数值返回
 - 开发一个UUID扩展
 
 
