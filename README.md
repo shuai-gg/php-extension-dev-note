@@ -21,6 +21,11 @@ php本身已经拥有很丰富的函数库，再加上php7的发布php性能提�
 - PHP扩展函数值返回
 - 开发一个UUID扩展
 
+### 参考资料
+
+- [《PHP扩展开发及内核应用》](https://github.com/qzfzz/php7-extension-dev-book)
+- 《PHP+核心技术与最佳实践》搜索下载
+
 
 ## lets go
 [学习开始](<index.md>)
